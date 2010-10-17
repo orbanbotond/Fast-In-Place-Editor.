@@ -19,6 +19,6 @@ All you need to do:
   In your layout:
     <%= javascript_include_tag "myextensions/fast_in_place_editor.js" %>
 
-And that's all. Enyoj :)
+And that's all. Enjoy :)
   
 
